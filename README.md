@@ -8,7 +8,7 @@ Bayesian models quantify uncertainty and facilitate optimal decision-making in d
 
 The code was used in and is necessary to reproduce results from the paper:
 
-T. Kuśmierczyk, J. Sakaya, A. Klami: **Correcting Predictions for Approximate Bayesian Inference.** [(see arXiv preprint)](https://arxiv.org/pdf/1909.04919.pdf)
+T. Kuśmierczyk, J. Sakaya, A. Klami: **Correcting Predictions for Approximate Bayesian Inference.**  AAAI 2020. [(arXiv preprint)](https://arxiv.org/pdf/1909.04919.pdf) [(poster)](poster_aaai20.pdf)
 
 
 ## Demonstrations
